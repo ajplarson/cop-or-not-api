@@ -1,0 +1,2 @@
+feign:
+  url: https://customsearch.googleapis.com
